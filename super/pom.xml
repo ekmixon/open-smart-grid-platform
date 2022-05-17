@@ -53,7 +53,7 @@
     <spring.version>5.3.1</spring.version>
     <spring.data.version>2.2.3.RELEASE</spring.data.version>
     <spring.data.commons.version>2.2.3.RELEASE</spring.data.commons.version>
-    <spring.security.version>5.4.1</spring.security.version>
+    <spring.security.version>5.5.7</spring.security.version>
     <spring.wscore.version>3.0.9.RELEASE</spring.wscore.version>
     <spring.wssecurity.version>3.0.9.RELEASE</spring.wssecurity.version>
     <spring.wssupport.version>3.0.9.RELEASE</spring.wssupport.version>
@@ -133,7 +133,7 @@
     <!-- to avoid conflicts with spring-kafka-test the older kafka version 2.4.1 is used-->
     <kafka.version>2.4.1</kafka.version>
     <avro.version>1.9.2</avro.version>
-    <spring.kafka.version>2.4.6.RELEASE</spring.kafka.version>
+    <spring.kafka.version>2.7.14</spring.kafka.version>
     <!-- spring-kafka-test needs a 2.12 version of the scala libraries -->
     <scala.lang.version>2.12.11</scala.lang.version>
     <lombok.version>1.18.12</lombok.version>
