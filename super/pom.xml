@@ -122,7 +122,7 @@
     <guava.version>29.0-jre</guava.version>
     <spotbugs.version>4.0.4</spotbugs.version>
     <jacoco.version>0.8.5</jacoco.version>
-    <selenium.java.version>3.141.59</selenium.java.version>
+    <selenium.java.version>4.12.0</selenium.java.version>
     <SunriseSunsetCalculator.version>1.2</SunriseSunsetCalculator.version>
     <ant.junit.version>1.10.8</ant.junit.version>
     <args4j.version>2.33</args4j.version>
