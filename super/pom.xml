@@ -50,10 +50,10 @@
     <osgp.dlms.version>5.15.0-SNAPSHOT</osgp.dlms.version>
     <osgp.shared.version>5.15.0-SNAPSHOT</osgp.shared.version>
     <osgp.jasper-interface.version>5.15.0-SNAPSHOT</osgp.jasper-interface.version>
-    <spring.version>5.3.1</spring.version>
-    <spring.data.version>2.2.3.RELEASE</spring.data.version>
+    <spring.version>6.1.14</spring.version>
+    <spring.data.version>3.2.11</spring.data.version>
     <spring.data.commons.version>2.2.3.RELEASE</spring.data.commons.version>
-    <spring.security.version>5.4.1</spring.security.version>
+    <spring.security.version>6.2.7</spring.security.version>
     <spring.wscore.version>3.0.9.RELEASE</spring.wscore.version>
     <spring.wssecurity.version>3.0.9.RELEASE</spring.wssecurity.version>
     <spring.wssupport.version>3.0.9.RELEASE</spring.wssupport.version>
@@ -131,9 +131,9 @@
     <postgresql.version>42.2.12</postgresql.version>
     <javax.xml.soap-api.version>1.4.0</javax.xml.soap-api.version>
     <!-- to avoid conflicts with spring-kafka-test the older kafka version 2.4.1 is used-->
-    <kafka.version>2.4.1</kafka.version>
+    <kafka.version>3.8.0</kafka.version>
     <avro.version>1.9.2</avro.version>
-    <spring.kafka.version>2.4.6.RELEASE</spring.kafka.version>
+    <spring.kafka.version>3.3.0</spring.kafka.version>
     <!-- spring-kafka-test needs a 2.12 version of the scala libraries -->
     <scala.lang.version>2.12.11</scala.lang.version>
     <lombok.version>1.18.12</lombok.version>
